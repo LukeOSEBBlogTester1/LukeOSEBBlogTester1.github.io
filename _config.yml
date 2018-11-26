@@ -1,11 +1,11 @@
 # Site settings
-author: Luke OSEBBlogTester1
-title: 
+author: Luke Ghenco
+title: Luke's OSEB Blog
 header-img: img/home-bg.png
 email: luke.ghenco+osebblogtester1@wework.com
-copyright_name: Luke OSEBBlogTester1
+copyright_name: Luke Ghenco
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blog Subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LukeOSEBBlogTester1
